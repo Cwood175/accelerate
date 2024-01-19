@@ -59,7 +59,6 @@ from .imports import (
     is_comet_ml_available,
     is_cuda_available,
     is_datasets_available,
-    is_peft_available,
     is_deepspeed_available,
     is_dvclive_available,
     is_fp8_available,
